@@ -1,0 +1,21 @@
+﻿id_evento,nome_evento,tipo_evento,modalidade,data_inicio,data_fim,cidade,estado,pais,capacidade
+1,Workshop de Lideranca,conferencia,presencial,2022-08-05,2022-08-06,Cavalcante,RN,BR,300
+2,Forum Trabalhista,conferencia,presencial,2024-01-12,2024-01-13,Moura,AM,BR,300
+3,Summit de Vendas B2B,conferencia,presencial,2025-07-07,2025-07-08,Sousa,PB,BR,300
+4,Conferencia de Tecnologia,conferencia,presencial,2023-08-04,2023-08-05,Viana da Mata,RS,BR,1200
+5,Encontro de RH Estrategico,conferencia,hibrido,2024-01-04,2024-01-05,Siqueira,DF,BR,200
+6,Seminario de Marketing Digital,treinamento,presencial,2023-11-13,2023-11-14,Gomes,RN,BR,300
+7,Feira de Inovacao,conferencia,online,2025-01-12,2025-01-13,Garcia,GO,BR,300
+8,Congresso de Compliance,conferencia,presencial,2023-10-23,2023-10-25,Casa Grande da Praia,RS,BR,500
+9,Jornada de Customer Success,workshop,presencial,2025-01-09,2025-01-10,Andrade,RN,BR,800
+10,Treinamento de Data Analytics,treinamento,hibrido,2022-07-19,2022-07-21,Goncalves,PB,BR,200
+11,Bootcamp de Produto,treinamento,presencial,2023-07-05,2023-07-06,Ferreira,MG,BR,200
+12,Encontro de Financas Corporativas,conferencia,presencial,2024-09-26,2024-09-27,Farias do Galho,MS,BR,800
+13,Seminario LGPD,conferencia,presencial,2025-01-26,2025-01-27,Barbosa,SC,BR,200
+14,Forum de Logistica,conferencia,online,2023-12-21,2023-12-22,Costa,PR,BR,100
+15,Workshop de Negociacao,conferencia,presencial,2023-05-21,2023-05-23,Nascimento,PR,BR,800
+16,Cumbre de Startups,conferencia,presencial,2025-03-31,2025-04-02,da Cunha,AM,BR,500
+17,Conexao ESG,treinamento,presencial,2024-11-17,2024-11-19,Pinto,CE,BR,300
+18,Semana de Transformacao Digital,conferencia,online,2024-07-29,2024-07-31,Teixeira de Andrade,PB,BR,300
+19,Expo Atendimento ao Cliente,conferencia,online,2024-03-19,2024-03-21,Guerra da Praia,ES,BR,300
+20,Hackday Corporativo,conferencia,presencial,2024-01-27,2024-01-28,Barros,BA,BR,200

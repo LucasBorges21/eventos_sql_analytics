@@ -1,0 +1,201 @@
+﻿id_vendedor,nome,equipe,regiao
+1,Benicio da Cunha,Enterprise,sudeste
+2,Rafael Pires,A,norte
+3,Calebe Silva,B,sudeste
+4,Lavinia Cavalcanti,C,sudeste
+5,Joao Camargo,C,sul
+6,Caio Goncalves,A,sul
+7,Theo Casa Grande,C,sudeste
+8,Brenda da Rosa,Enterprise,sul
+9,Dr. Vitor Gabriel Lopes,C,centro-oeste
+10,Emanuelly Fonseca,MidMarket,nordeste
+11,Alicia Mendonca,MidMarket,centro-oeste
+12,Gustavo Henrique Mendonca,C,sudeste
+13,Barbara Aparecida,MidMarket,sudeste
+14,Lara Nunes,C,sul
+15,Dra. Lunna Cavalcante,C,nordeste
+16,Luiz Fernando Campos,MidMarket,sudeste
+17,Lucca da Paz,MidMarket,sudeste
+18,Vinicius Santos,MidMarket,centro-oeste
+19,Apollo da Rosa,Enterprise,sudeste
+20,Joao Miguel Sales,C,sudeste
+21,Sabrina Sa,B,sudeste
+22,Dom Costa,C,nordeste
+23,Ana Beatriz Rios,Enterprise,centro-oeste
+24,Maria Luiza Fonseca,A,sudeste
+25,Dr. Yuri Martins,B,sul
+26,Joao Lucas Brito,B,centro-oeste
+27,Nicolas Marques,Enterprise,sul
+28,Lunna da Rosa,C,sul
+29,Gabriel Vasconcelos,B,sudeste
+30,Thomas Souza,MidMarket,sul
+31,Sr. Nicolas Brito,C,norte
+32,Maysa Garcia,Enterprise,sudeste
+33,Gabriel Sousa,Enterprise,sudeste
+34,Yan Marques,MidMarket,norte
+35,Brayan Ramos,Enterprise,sudeste
+36,Samuel Ribeiro,MidMarket,nordeste
+37,Theo Andrade,B,centro-oeste
+38,Larissa Casa Grande,A,sudeste
+39,Alana Carvalho,Enterprise,sudeste
+40,Marcela Rezende,MidMarket,sudeste
+41,Larissa Farias,A,sudeste
+42,Maria Clara Dias,B,sudeste
+43,Brayan da Paz,Enterprise,sul
+44,Zoe Vargas,Enterprise,sudeste
+45,Zoe Cunha,Enterprise,sudeste
+46,Otto Montenegro,C,sul
+47,Luigi Martins,B,sul
+48,Gabrielly Campos,Enterprise,centro-oeste
+49,Leticia Santos,C,norte
+50,Bryan Vieira,C,nordeste
+51,Melissa Silveira,Enterprise,sudeste
+52,Maite Lopes,A,sudeste
+53,Srta. Maria Casa Grande,C,sudeste
+54,Sr. Jose Miguel Costela,B,sudeste
+55,Ravi Fogaca,A,nordeste
+56,Arthur Miguel da Mata,Enterprise,sudeste
+57,Srta. Catarina Caldeira,C,sudeste
+58,Murilo Fogaca,MidMarket,sudeste
+59,Vitor Gabriel Lima,C,sudeste
+60,Sr. Arthur Miguel Fernandes,A,centro-oeste
+61,Dra. Yasmin Sa,B,sudeste
+62,Sra. Vitoria Duarte,A,sul
+63,Yasmin Monteiro,MidMarket,sudeste
+64,Dra. Maria Liz Abreu,B,nordeste
+65,Andre Vasconcelos,C,nordeste
+66,Alana Cunha,B,sudeste
+67,Lorenzo Nogueira,C,sul
+68,Isabel Camara,A,sudeste
+69,Brenda da Mata,C,centro-oeste
+70,Ravy Barbosa,Enterprise,sudeste
+71,Henry Gabriel Alves,B,centro-oeste
+72,Isabela Lopes,B,sul
+73,Antonio Melo,Enterprise,sudeste
+74,Oliver Novais,C,sudeste
+75,Dr. Arthur Gabriel Sa,C,sudeste
+76,Maria Isis Monteiro,B,norte
+77,Fernando Campos,C,sudeste
+78,Melissa Ribeiro,A,centro-oeste
+79,Esther Marques,B,centro-oeste
+80,Carlos Eduardo da Luz,Enterprise,sudeste
+81,Dra. Lais Novaes,A,sudeste
+82,Ana Beatriz Cardoso,Enterprise,sudeste
+83,Josue Duarte,B,centro-oeste
+84,Sabrina Costa,A,centro-oeste
+85,Sara Camargo,MidMarket,sudeste
+86,Ester Fonseca,A,sul
+87,Maria Helena Carvalho,B,sudeste
+88,Isis Camargo,C,norte
+89,Leticia Carvalho,MidMarket,norte
+90,Sra. Manuella Nogueira,C,sudeste
+91,Srta. Elisa Barbosa,MidMarket,norte
+92,Dra. Maria Fernanda Castro,C,norte
+93,Antony Azevedo,A,sudeste
+94,Davi Miguel Cavalcante,C,sudeste
+95,Julia Camargo,A,centro-oeste
+96,Luiz Felipe Vargas,A,norte
+97,Luara Jesus,A,sudeste
+98,Vinicius Vargas,A,sudeste
+99,Maysa Gomes,A,sudeste
+100,Lucas Pimenta,B,sudeste
+101,Benjamin Nunes,A,norte
+102,Srta. Lara da Conceicao,A,sudeste
+103,Olivia Gomes,A,nordeste
+104,Davi Miguel Fernandes,MidMarket,sudeste
+105,Davi Lucas da Cruz,C,sudeste
+106,Alana Nascimento,B,sudeste
+107,Ana Sophia Novais,C,sudeste
+108,Srta. Maria Luiza Fonseca,C,norte
+109,Sra. Fernanda Moreira,A,sudeste
+110,Brenda Porto,C,nordeste
+111,Dr. Heitor Brito,Enterprise,sudeste
+112,Ryan Siqueira,C,sul
+113,Rafael Novais,MidMarket,sudeste
+114,Mirella Barbosa,A,sudeste
+115,Camila Costa,Enterprise,nordeste
+116,Aurora Sales,Enterprise,nordeste
+117,Kevin Pastor,C,sudeste
+118,Ana Cecilia Albuquerque,C,nordeste
+119,Alana Barros,A,sul
+120,Brenda Machado,C,sudeste
+121,Ana Beatriz Sampaio,B,nordeste
+122,Srta. Gabriela da Mota,A,nordeste
+123,Paulo Moraes,A,sul
+124,Sra. Amanda da Rosa,B,sudeste
+125,Luiz Felipe Lopes,MidMarket,sul
+126,Emanuel Rios,B,sudeste
+127,Daniela da Mota,A,sudeste
+128,Lavinia Pereira,MidMarket,sudeste
+129,Cecilia Camara,A,sul
+130,Gabrielly Cunha,A,sul
+131,Lorena Porto,C,sudeste
+132,Nicole Rezende,A,sul
+133,Olivia Mendes,C,sudeste
+134,Joao Gabriel Silveira,A,centro-oeste
+135,Dra. Olivia Carvalho,Enterprise,nordeste
+136,Kevin Rezende,A,nordeste
+137,Davi Porto,Enterprise,sudeste
+138,Elisa Melo,Enterprise,norte
+139,Pietro Costela,MidMarket,centro-oeste
+140,Fernando Costa,A,sudeste
+141,Joana Gomes,C,sudeste
+142,Leandro Ramos,Enterprise,sul
+143,Erick Porto,MidMarket,sudeste
+144,Liam Fernandes,C,sul
+145,Joana das Neves,MidMarket,norte
+146,Mariana Novaes,A,nordeste
+147,Sra. Amanda Martins,B,sudeste
+148,Sra. Maria Fernanda Santos,B,sudeste
+149,Sra. Yasmin Carvalho,A,norte
+150,Theodoro Cavalcanti,B,sudeste
+151,Milena Camara,Enterprise,centro-oeste
+152,Heitor Cunha,C,sudeste
+153,Agatha Monteiro,A,sudeste
+154,Srta. Lais Goncalves,A,nordeste
+155,Luiz Fernando Carvalho,MidMarket,sudeste
+156,Liz da Mata,B,sul
+157,Mariane Garcia,A,sudeste
+158,Ana Julia Casa Grande,A,sul
+159,Sra. Bella Moura,B,sudeste
+160,Maria Eduarda Camargo,A,sul
+161,Manuela Porto,B,norte
+162,Alice Almeida,A,sudeste
+163,Emanuelly Goncalves,B,sudeste
+164,Vitor Hugo Fogaca,Enterprise,sudeste
+165,Yan Caldeira,A,sudeste
+166,Maysa da Rosa,A,sudeste
+167,Thales Rodrigues,Enterprise,sul
+168,Amanda Moraes,A,sudeste
+169,Isabel Camargo,Enterprise,nordeste
+170,Rhavi Almeida,C,sudeste
+171,Sr. Bento Mendes,MidMarket,norte
+172,Vinicius Aparecida,A,nordeste
+173,Eloa das Neves,Enterprise,sudeste
+174,Dra. Isabelly Monteiro,C,sul
+175,Giovanna da Cunha,C,centro-oeste
+176,Rafael Castro,A,nordeste
+177,Beatriz Rocha,A,sul
+178,Felipe Santos,Enterprise,sudeste
+179,Henry Gabriel Campos,A,sudeste
+180,Srta. Agatha Leao,C,nordeste
+181,Laura Borges,A,sul
+182,Lucas Pereira,C,norte
+183,Pedro Henrique da Conceicao,B,centro-oeste
+184,Sr. Daniel Correia,B,sudeste
+185,Sr. Arthur Miguel Rios,Enterprise,sudeste
+186,Henry Leao,A,sudeste
+187,Allana Carvalho,MidMarket,sudeste
+188,Emanuelly Rocha,B,sudeste
+189,Lorena Duarte,C,sudeste
+190,Dr. Diogo Albuquerque,A,sudeste
+191,Pedro Miguel Aparecida,B,sudeste
+192,Eloa Teixeira,C,centro-oeste
+193,Sr. Samuel Ferreira,Enterprise,sudeste
+194,Isabelly Lima,MidMarket,sudeste
+195,Dr. Daniel Guerra,MidMarket,sudeste
+196,Olivia Montenegro,B,sudeste
+197,Pietra Garcia,A,nordeste
+198,Erick Goncalves,MidMarket,sul
+199,Sra. Isabel Freitas,A,sudeste
+200,Thiago Castro,MidMarket,norte
