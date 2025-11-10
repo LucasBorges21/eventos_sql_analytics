@@ -43,10 +43,8 @@ eventos_sql_analytics/
 │  ├─ 10_top5_eventos_receita_2025_ticket.sql
 │  └─ 11_clientes_dormientes_180d.sql
 │
-├─ carga_eventos.sql          # arquivo gerado automaticamente pelo script
 ├─ gerar_sql_eventos.py       # script Python que gera o SQL completo a partir dos CSVs
 ├─ diagrama_eventos.png 
-├─ .gitignore
 └─ README.md
 
 
