@@ -17,36 +17,38 @@ O foco é mostrar domínio nas principais operações de análise — agrupament
 
 ## 🗂 Estrutura do Repositório
 
+```text
 eventos_sql_analytics/
 ├─ .venv/
 │
 ├─ data/
-│ ├─ clientes.csv
-│ ├─ eventos.csv
-│ ├─ faturas.csv
-│ ├─ item_vendas.csv
-│ ├─ pedidos.csv
-│ └─ vendedores.csv
+│  ├─ clientes.csv
+│  ├─ eventos.csv
+│  ├─ faturas.csv
+│  ├─ item_vendas.csv
+│  ├─ pedidos.csv
+│  └─ vendedores.csv
 │
 ├─ sql/
-│ ├─ 00_schema_minimo.sql
-│ ├─ 01_receita_mensal.sql
-│ ├─ 02_top3_eventos_receita.sql
-│ ├─ 03_top3_clientes_ticket_trimestral.sql
-│ ├─ 04_conversao_por_canal_2025.sql
-│ ├─ 05_receita_por_tipo_evento_minimo.sql
-│ ├─ 06_receita_uf_meio_pagamento_ranking.sql
-│ ├─ 07_faturas_atrasadas_faixa.sql
-│ ├─ 08_ocupacao_top2_meses_por_evento.sql
-│ ├─ 09_receita_por_vendedor_min_pedidos.sql
-│ ├─ 10_top5_eventos_receita_2025_ticket.sql
-│ └─ 11_clientes_dormientes_180d.sql
+│  ├─ 00_schema_minimo.sql
+│  ├─ 01_receita_mensal.sql
+│  ├─ 02_top3_eventos_receita.sql
+│  ├─ 03_top3_clientes_ticket_trimestral.sql
+│  ├─ 04_conversao_por_canal_2025.sql
+│  ├─ 05_receita_por_tipo_evento_minimo.sql
+│  ├─ 06_receita_uf_meio_pagamento_ranking.sql
+│  ├─ 07_faturas_atrasadas_faixa.sql
+│  ├─ 08_ocupacao_top2_meses_por_evento.sql
+│  ├─ 09_receita_por_vendedor_min_pedidos.sql
+│  ├─ 10_top5_eventos_receita_2025_ticket.sql
+│  └─ 11_clientes_dormientes_180d.sql
 │
-├─ carga_eventos.sql # arquivo gerado automaticamente pelo script
-├─ gerar_sql_eventos.py # script Python que gera o SQL completo a partir dos CSVs
+├─ carga_eventos.sql          # arquivo gerado automaticamente pelo script
+├─ gerar_sql_eventos.py       # script Python que gera o SQL completo a partir dos CSVs
 ├─ diagrama_eventos.png 
 ├─ .gitignore
 └─ README.md
+
 
 Cada arquivo `.sql` possui comentários explicativos no início, indicando **objetivo**, **tabelas envolvidas** e **regras de cálculo**.
 
